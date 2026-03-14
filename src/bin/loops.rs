@@ -47,7 +47,7 @@ fn for_loop() {
 }
 
 fn main() {
-    // loop_label();
-    // while_loop();
+    loop_label();
+    while_loop();
     for_loop();
 }
