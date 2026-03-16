@@ -3,4 +3,5 @@
 // 공개하는 경로에 있는 것들에 pub 키워드 붙이기
 pub fn add_to_waitlist() {}
 
+
 fn seat_at_table() {}
